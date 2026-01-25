@@ -7,9 +7,10 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
-python = "3.13.*"
+python = "3.12.*"
 geopandas = ">=1.1.1,<2"
 contextily = ">=1.6.2,<2"
+matplotlib-base = ">=3.8.0,<4"
+pyside6 = ">=6.6.0,<7"
 
 [pypi-dependencies]
-pyqt6 = ">=6.9.1, <7"
