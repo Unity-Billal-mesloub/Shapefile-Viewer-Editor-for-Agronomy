@@ -13,6 +13,18 @@ A comprehensive desktop application for viewing, editing, and analyzing ESRI Sha
 
 ---
 
+## Screenshots
+
+Below are some screenshots showcasing the app.
+
+| **Main Window**                                                  | **Map Viewer**                                                  |
+|------------------------------------------------------------------|-----------------------------------------------------------------|
+| ![Main_Window](./Screenshots/Main_Window.png)                    | ![Map_Viewer](./Screenshots/Map_Viewer.png)                     |
+| **Statistics**                                                   | **Spatial Tools**                                               |
+| ![Statistics](./Screenshots/Statistics.png)                      | ![Spatial_Tools](./Screenshots/Spatial_Tools.png)               |
+
+
+---
 ## ✨ Features
 
 ### 🗺️ Interactive Map Viewer
