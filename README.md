@@ -40,18 +40,18 @@ A comprehensive desktop application for viewing, editing, and analyzing ESRI Sha
 - **Visual charts** - histograms, pie charts, and spatial overviews
 - **Export-ready** statistical summaries
 
-### ðŸ§­ Spatial Tools
+### 🧭 Spatial Tools
 - **Buffer, dissolve, clip, intersect, union** operations
 - **Calculate area and length** attributes
 - **Automatic CRS alignment** for overlay tools
 
-### ðŸ“¦ Export & Sharing
+### 📦 Export & Sharing
 - **Export GeoJSON** for web and GIS workflows
 - **Export GeoPackage** for modern GIS storage
 - **Export CSV (attributes only)** for spreadsheets
 - **Export map view** to PNG/PDF
 
-### ðŸ–¨ï¸ Print & Layout
+### 🖨️ Print & Layou
 - **Layout designer** with title, legend, scale bar, and north arrow
 - **High-quality PNG/PDF output** for reports
 
