@@ -51,7 +51,7 @@ A comprehensive desktop application for viewing, editing, and analyzing ESRI Sha
 - **Export CSV (attributes only)** for spreadsheets
 - **Export map view** to PNG/PDF
 
-### 🖨️ Print & Layou
+### 🖨️ Print & Layout
 - **Layout designer** with title, legend, scale bar, and north arrow
 - **High-quality PNG/PDF output** for reports
 
@@ -188,20 +188,20 @@ Additional dependencies installed automatically:
 - **Attributes**: Detailed column statistics
 - **Charts**: Visual analysis with histograms and plots
 
-#### ðŸ§­ Spatial Tools
+#### 🧭­ Spatial Tools
 - Access via `Tools â†’ Spatial Tools`
 - **Buffer**: Create offset geometries
 - **Dissolve**: Merge features by attribute
 - **Clip/Intersect/Union**: Overlay with another layer
 - **Area/Length**: Add measurement fields to attributes
 
-#### ðŸ“¦ Exporting
-- `File â†’ Export GeoJSON...`
-- `File â†’ Export GeoPackage...`
-- `File â†’ Export Attributes CSV...`
-- `Map Viewer â†’ Export PNG/PDF`
+#### 📦 Export & Sharing
+- `File → Export GeoJSON...`
+- `File → Export GeoPackage...`
+- `File → Export Attributes CSV...`
+- `Map Viewer → Export PNG/PDF`
 
-#### ðŸ–¨ï¸ Layout Designer
+#### 🖨️ Print & Layout
 - `Map Viewer â†’ Layout Designer`
 - Add **title, legend, scale bar, and north arrow**
 - Export layout to **PNG/PDF**
@@ -347,9 +347,6 @@ See the [LICENSE](LICENSE) file for details.
 ## 👨‍💻 Developer
 
 **Bobby Azad**
-Shapefile Editor for Agronomy
-Version 1.1
-Released: January 25, 2026
 
 ---
 
