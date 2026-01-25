@@ -7,7 +7,8 @@
 A comprehensive desktop application for viewing, editing, and analyzing ESRI Shapefiles. Designed specifically for agronomists and GIS professionals working with agricultural and spatial data.
 
 **Developer:** Bobby Azad
-**Release Date:** January 25, 2026
+**Release Date:** September 7, 2025
+**Updated Date:** January 25, 2026
 **Version:** 1.1
 
 ---
@@ -338,7 +339,8 @@ This is a specialized tool developed for agronomic applications. If you find bug
 
 ## 📜 License
 
-This software is provided as-is for educational and professional use in agronomy and GIS analysis.
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
